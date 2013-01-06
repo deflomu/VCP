@@ -19,6 +19,7 @@ Hinweise:
 - Der Code ist weitestgehend unkommentiert
 - Der Code darf nicht für andere Zwecke weiterverwendet werden
 - Der Code im gesamten Projekt wurde von mir selbst geschrieben (außer reachability.c/h; diese sind von Apple)
+
   ( Gut, die ein oder andere Funktion hätte man besser programmieren können ;) )
 
 ===

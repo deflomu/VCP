@@ -24,7 +24,7 @@ Hinweise:
 
 ===
 
-Copyright 2012 - Jens Sproede - https://jenssproede.de
+Copyright 2013 - Jens Sproede - https://jenssproede.de
 
 ===
 

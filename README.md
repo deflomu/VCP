@@ -1,5 +1,4 @@
 Das Xcode-Projekt zur VCP App
-
 ===
 
 iTunes Link: https://itunes.apple.com/de/app/id518324375?mt=8
@@ -19,7 +18,7 @@ Prozessliste und Ihre zum vServer zugewiesenen IP Adressen einsehen.
 Hinweise:
 - Der Code ist weitestgehend unkommentiert
 - Der Code darf nicht für andere Zwecke weiterverwendet werden
-- Der Code im gesamten Projekt wurde von mir selbst geschrieben
+- Der Code im gesamten Projekt wurde von mir selbst geschrieben (außer reachability.c/h; diese sind von Apple)
   ( Gut, die ein oder andere Funktion hätte man besser programmieren können ;) )
 
 ===

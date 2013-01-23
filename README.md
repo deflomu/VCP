@@ -19,7 +19,8 @@ Hinweise:
 - Der Code ist weitestgehend unkommentiert
 - Der Code darf kopiert, modifiziert und auch für andere Projekte weiterverwendet werden. Wenn Sie das gesamte Projekt
   weiterführen möchten, informieren Sie mich bitte via E-Mail ( jens (at) jenssproede.de ). Vielen Dank.
-- Der Code im gesamten Projekt wurde von mir selbst geschrieben (außer reachability.c/h; diese sind von Apple und Appirater.c/.h sind auch nicht von mir)
+- Der Code im gesamten Projekt wurde von mir selbst geschrieben (außer reachability.c/h; diese sind von Apple und Appirater.c/.h sind auch nicht von mir; 
+  beachten Sie hierzu auch die Kommentare in den jeweiligen Quellcode-Dateien)
 
   ( Gut, die ein oder andere Funktion hätte man besser programmieren können ;) )
 

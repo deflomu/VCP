@@ -17,7 +17,8 @@ Prozessliste und Ihre zum vServer zugewiesenen IP Adressen einsehen.
 
 Hinweise:
 - Der Code ist weitestgehend unkommentiert
-- Der Code darf nicht für andere Zwecke weiterverwendet werden
+- Der Code darf kopiert, modifiziert und auch für andere Projekte weiterverwendet werden. Wenn Sie das gesamte Projekt
+  weiterführen möchten, informieren Sie mich bitte via E-Mail ( jens (at) jenssproede.de ). Vielen Dank.
 - Der Code im gesamten Projekt wurde von mir selbst geschrieben (außer reachability.c/h; diese sind von Apple und Appirater.c/.h sind auch nicht von mir)
 
   ( Gut, die ein oder andere Funktion hätte man besser programmieren können ;) )
